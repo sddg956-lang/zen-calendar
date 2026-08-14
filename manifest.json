@@ -1,0 +1,11 @@
+{
+  "name":"Zen Calendar",
+  "short_name":"Zen",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#F4F2ED",
+  "theme_color":"#F4F2ED",
+  "description":"AI 行事曆、待辦與睡前整理。",
+  "icons":[{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}
